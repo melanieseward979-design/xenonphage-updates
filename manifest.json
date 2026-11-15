@@ -1,9 +1,9 @@
 {
-  "version": "0.9.8",
+  "version": "0.9.9",
   "minShellVersion": "0.9.2",
-  "url": "xenophage-content-0.9.8.zip",
-  "sha256": "2a95b5844bfd4e28e37a3e4f1702addf990e70b76eb7001b4fda931fc31b27e5",
-  "signature": "J8QATrIuM+l2G+Bi2QEZIvq90tqzRofU6fmtiu32R+1ZwkUddKMlnzWCm0EPXOi6SVKlbO5NEJBM8/StHLo4Dw==",
+  "url": "xenophage-content-0.9.9.zip",
+  "sha256": "c4abcbac0133827220a3a73138db6fb0aad4741ffdce05847275943137126d53",
+  "signature": "c+c+lUOkZ5ubZdP5GjvigTVJJoi/eXkAtBUryazN5Vami317H41JkHdfY4Hv+coP307XYo1rIfHEFEXPnGhjAw==",
   "ultra": {
     "base": "ultra/",
     "description": "Optional 2K PBR textures and 2K HDRI, lazy-loaded when GRAPHICS is Ultra. Each file is under 50 MB. Low/Medium/High use bundled 1K maps only."
