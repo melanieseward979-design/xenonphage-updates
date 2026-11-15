@@ -1,11 +1,11 @@
 {
-  "version": "0.9.6",
+  "version": "0.9.7",
   "minShellVersion": "0.9.2",
-  "url": "xenophage-content-0.9.6.zip",
-  "sha256": "3f9488a7d51dd119a0c4af3835d1ff18975600f179431ad2eb4ea0d8ac818034",
-  "signature": "q8eYlcbpRmovR0EvuzZiDcM2QBFvq0wotLPJ1zmzOV2MR1qXieGs7EIovEn8PPU8ezXkZsBqJBLo8lO5pNhRAw==",
+  "url": "xenophage-content-0.9.7.zip",
+  "sha256": "5e2f8c992cd88fefc4c9e638d29a792772af55c384af2cc20157abd2fd3018ed",
+  "signature": "yW7ZsU9vfsoID53ZubXpImv61Q3dSNPAIvL8zzyufq+fCe/X6Gt1MmGbbjA/E6RF2uNdnu9htDbSlGBjQ6AwAA==",
   "ultra": {
     "base": "ultra/",
-    "description": "Optional 2K PBR textures, 2K HDRI, 8K sky (ultra/sky/), and high-LOD guns/props (ultra/models/). Lazy-loaded from the update site when GRAPHICS is High or Ultra. Each file is under 50 MB. Low/Medium use bundled 1K maps, medium/low models, and the 2K/4K sky in the content zip."
+    "description": "Optional 2K PBR textures and 2K HDRI, lazy-loaded when GRAPHICS is Ultra. Each file is under 50 MB. Low/Medium/High use bundled 1K maps only."
   }
 }
